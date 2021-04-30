@@ -23,4 +23,8 @@ npm install --save react-native-get-random-values
 npm install uuid
 
 *********
-
+git clone http:...
+git status
+git commit -m "Mensagem de atualização do branch"
+git push
+git pull
