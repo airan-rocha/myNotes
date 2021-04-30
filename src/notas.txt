@@ -1,0 +1,26 @@
+Dependencias do projeto
+-----------------------------------
+yarn add @react-navigation/native
+yarn add react-native-reanimated react-native-gesture-handler react-native-screens react-native-safe-area-context @react-native-community/masked-view
+yarn add @react-navigation/stack
+
+*********
+yarn add react-native-paper
+
+*********
+npm install --save react-native-vector-icons
+npx react-native link react-native-vector-icons
+
+*********
+yarn global add react-native-rename
+npx react-native-rename "My Notes" -b br.com.rochadev.mynotes_full
+
+*********
+yarn add realm
+
+*********
+npm install --save react-native-get-random-values
+npm install uuid
+
+*********
+
